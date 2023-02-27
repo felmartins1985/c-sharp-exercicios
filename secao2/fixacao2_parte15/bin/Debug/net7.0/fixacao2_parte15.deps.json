@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "fixacao2_parte15/1.0.0": {
+        "runtime": {
+          "fixacao2_parte15.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fixacao2_parte15/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

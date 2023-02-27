@@ -1,0 +1,15 @@
+/home/hp/trybe/C#/CH-exercicios/secao2/exemplo_parte15/bin/Debug/net7.0/exemplo_parte15
+/home/hp/trybe/C#/CH-exercicios/secao2/exemplo_parte15/bin/Debug/net7.0/exemplo_parte15.deps.json
+/home/hp/trybe/C#/CH-exercicios/secao2/exemplo_parte15/bin/Debug/net7.0/exemplo_parte15.runtimeconfig.json
+/home/hp/trybe/C#/CH-exercicios/secao2/exemplo_parte15/bin/Debug/net7.0/exemplo_parte15.dll
+/home/hp/trybe/C#/CH-exercicios/secao2/exemplo_parte15/bin/Debug/net7.0/exemplo_parte15.pdb
+/home/hp/trybe/C#/CH-exercicios/secao2/exemplo_parte15/obj/Debug/net7.0/exemplo_parte15.csproj.AssemblyReference.cache
+/home/hp/trybe/C#/CH-exercicios/secao2/exemplo_parte15/obj/Debug/net7.0/exemplo_parte15.GeneratedMSBuildEditorConfig.editorconfig
+/home/hp/trybe/C#/CH-exercicios/secao2/exemplo_parte15/obj/Debug/net7.0/exemplo_parte15.AssemblyInfoInputs.cache
+/home/hp/trybe/C#/CH-exercicios/secao2/exemplo_parte15/obj/Debug/net7.0/exemplo_parte15.AssemblyInfo.cs
+/home/hp/trybe/C#/CH-exercicios/secao2/exemplo_parte15/obj/Debug/net7.0/exemplo_parte15.csproj.CoreCompileInputs.cache
+/home/hp/trybe/C#/CH-exercicios/secao2/exemplo_parte15/obj/Debug/net7.0/exemplo_parte15.dll
+/home/hp/trybe/C#/CH-exercicios/secao2/exemplo_parte15/obj/Debug/net7.0/refint/exemplo_parte15.dll
+/home/hp/trybe/C#/CH-exercicios/secao2/exemplo_parte15/obj/Debug/net7.0/exemplo_parte15.pdb
+/home/hp/trybe/C#/CH-exercicios/secao2/exemplo_parte15/obj/Debug/net7.0/exemplo_parte15.genruntimeconfig.cache
+/home/hp/trybe/C#/CH-exercicios/secao2/exemplo_parte15/obj/Debug/net7.0/ref/exemplo_parte15.dll
