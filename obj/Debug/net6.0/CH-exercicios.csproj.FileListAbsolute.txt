@@ -1,0 +1,15 @@
+/home/hp/trybe/C#/CH-exercicios/bin/Debug/net6.0/CH-exercicios
+/home/hp/trybe/C#/CH-exercicios/bin/Debug/net6.0/CH-exercicios.deps.json
+/home/hp/trybe/C#/CH-exercicios/bin/Debug/net6.0/CH-exercicios.runtimeconfig.json
+/home/hp/trybe/C#/CH-exercicios/bin/Debug/net6.0/CH-exercicios.dll
+/home/hp/trybe/C#/CH-exercicios/bin/Debug/net6.0/CH-exercicios.pdb
+/home/hp/trybe/C#/CH-exercicios/obj/Debug/net6.0/CH-exercicios.csproj.AssemblyReference.cache
+/home/hp/trybe/C#/CH-exercicios/obj/Debug/net6.0/CH-exercicios.GeneratedMSBuildEditorConfig.editorconfig
+/home/hp/trybe/C#/CH-exercicios/obj/Debug/net6.0/CH-exercicios.AssemblyInfoInputs.cache
+/home/hp/trybe/C#/CH-exercicios/obj/Debug/net6.0/CH-exercicios.AssemblyInfo.cs
+/home/hp/trybe/C#/CH-exercicios/obj/Debug/net6.0/CH-exercicios.csproj.CoreCompileInputs.cache
+/home/hp/trybe/C#/CH-exercicios/obj/Debug/net6.0/CH-exercicios.dll
+/home/hp/trybe/C#/CH-exercicios/obj/Debug/net6.0/refint/CH-exercicios.dll
+/home/hp/trybe/C#/CH-exercicios/obj/Debug/net6.0/CH-exercicios.pdb
+/home/hp/trybe/C#/CH-exercicios/obj/Debug/net6.0/CH-exercicios.genruntimeconfig.cache
+/home/hp/trybe/C#/CH-exercicios/obj/Debug/net6.0/ref/CH-exercicios.dll
