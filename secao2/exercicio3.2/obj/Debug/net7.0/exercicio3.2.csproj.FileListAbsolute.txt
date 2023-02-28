@@ -1,0 +1,15 @@
+/home/hp/trybe/C#/CH-exercicios/secao2/exercicio3.2/bin/Debug/net7.0/exercicio3.2
+/home/hp/trybe/C#/CH-exercicios/secao2/exercicio3.2/bin/Debug/net7.0/exercicio3.2.deps.json
+/home/hp/trybe/C#/CH-exercicios/secao2/exercicio3.2/bin/Debug/net7.0/exercicio3.2.runtimeconfig.json
+/home/hp/trybe/C#/CH-exercicios/secao2/exercicio3.2/bin/Debug/net7.0/exercicio3.2.dll
+/home/hp/trybe/C#/CH-exercicios/secao2/exercicio3.2/bin/Debug/net7.0/exercicio3.2.pdb
+/home/hp/trybe/C#/CH-exercicios/secao2/exercicio3.2/obj/Debug/net7.0/exercicio3.2.csproj.AssemblyReference.cache
+/home/hp/trybe/C#/CH-exercicios/secao2/exercicio3.2/obj/Debug/net7.0/exercicio3.2.GeneratedMSBuildEditorConfig.editorconfig
+/home/hp/trybe/C#/CH-exercicios/secao2/exercicio3.2/obj/Debug/net7.0/exercicio3.2.AssemblyInfoInputs.cache
+/home/hp/trybe/C#/CH-exercicios/secao2/exercicio3.2/obj/Debug/net7.0/exercicio3.2.AssemblyInfo.cs
+/home/hp/trybe/C#/CH-exercicios/secao2/exercicio3.2/obj/Debug/net7.0/exercicio3.2.csproj.CoreCompileInputs.cache
+/home/hp/trybe/C#/CH-exercicios/secao2/exercicio3.2/obj/Debug/net7.0/exercicio3.2.dll
+/home/hp/trybe/C#/CH-exercicios/secao2/exercicio3.2/obj/Debug/net7.0/refint/exercicio3.2.dll
+/home/hp/trybe/C#/CH-exercicios/secao2/exercicio3.2/obj/Debug/net7.0/exercicio3.2.pdb
+/home/hp/trybe/C#/CH-exercicios/secao2/exercicio3.2/obj/Debug/net7.0/exercicio3.2.genruntimeconfig.cache
+/home/hp/trybe/C#/CH-exercicios/secao2/exercicio3.2/obj/Debug/net7.0/ref/exercicio3.2.dll
