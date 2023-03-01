@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = exercicio5
-build_property.ProjectDir = /home/hp/trybe/C#/CH-exercicios/secao2/exercicio1.5/
+build_property.RootNamespace = exemplo_parte34
+build_property.ProjectDir = /home/hp/trybe/C#/CH-exercicios/secao2/exemplo_parte34/
